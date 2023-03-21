@@ -1,4 +1,4 @@
-// 9. To find Armstrong Number between two given number.
+// 9. To find whether given number is Armstrong or not.
 package firstjava;
 
 import java.util.Scanner;
