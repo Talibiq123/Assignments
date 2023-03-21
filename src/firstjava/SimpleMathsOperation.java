@@ -1,10 +1,11 @@
-// Write a program to
+// 4. Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
 package firstjava;
 
 import java.util.Scanner;
 
 public class SimpleMathsOperation {
     public static void main(String[] args) {
+        System.out.println("Simplest Calculator");
         Scanner in = new Scanner(System.in);
         System.out.print("Enter First Number : ");
         int num1 = in.nextInt();
