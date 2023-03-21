@@ -8,10 +8,6 @@ public class ArmstrongNumber {
     public static void main(String[] args) {
         System.out.println("Armstrong Number");
         Scanner scanner = new Scanner(System.in);
-        //System.out.print("Enter First Number : ");
-        //int num1 = scanner.nextInt();
-        //System.out.print("Enter Second Number : ");
-        //int num2 = scanner.nextInt();
         System.out.print("Enter a Number : ");
         int n = scanner.nextInt();
         int m = n;
@@ -24,7 +20,6 @@ public class ArmstrongNumber {
             power++;
             n = n / 10;
         }
-        //System.out.println(power);
 
         //Armstrong number
         double sum = 0;
