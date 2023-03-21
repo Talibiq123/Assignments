@@ -1,4 +1,4 @@
-// 9. To find whether given number is Armstrong or not.
+// To find whether given number is Armstrong or not.
 package firstjava;
 
 import java.util.Scanner;
