@@ -21,7 +21,7 @@ public class ArmstrongNumber {
             n = n / 10;
         }
 
-        //Armstrong number
+        //Armstrong number...
         double sum = 0;
         double digit;
         while (m != 0) {
